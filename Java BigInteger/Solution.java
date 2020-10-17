@@ -1,5 +1,5 @@
 /*
-Java BitInteger class contains add() and multiply().
+Java BitInteger class contains add() and multiply() methods.
 */
 import java.io.*;
 import java.util.*;
